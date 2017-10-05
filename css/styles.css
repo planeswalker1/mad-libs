@@ -6,3 +6,11 @@ body {
   margin: 0;
   line-height: 1.65;
 }
+
+#story {
+  display: none;
+}
+
+.btn {
+  margin-bottom: 10px;
+}
