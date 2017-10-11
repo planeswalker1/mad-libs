@@ -1,6 +1,6 @@
 # _mad-libs_
 
-#### _a website that mimics the Mad Libs format, 10.05.2017_
+#### _a website that mimics the Mad Libs format, 10.10.2017_
 
 #### By _**planeswalker1**_
 
