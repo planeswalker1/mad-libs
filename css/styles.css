@@ -11,6 +11,10 @@ body {
   display: none;
 }
 
+#story p {
+  font-size: 1.25em;
+}
+
 .btn {
   margin-bottom: 10px;
 }
